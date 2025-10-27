@@ -1,7 +1,7 @@
 
-## Hi, I'm Cammy!
+## Hi, I'm Lily!
 
-### they/them | she/her
+she/her
 
 <!--
 **cammycraig/cammycraig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
