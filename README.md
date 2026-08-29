@@ -1,13 +1,20 @@
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/44074025?v=4" border-radius="50%" float="center" width="250px"/>
 
-## Hi, I'm Lily!
+  <h1 align="center">👋 Hi, I'm Lily!</h1>
+  
+[![GitHub](https://img.shields.io/badge/GitHub-lilyfleetingcraig-%23121011.svg?logo=github&logoColor=white)](#)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-lilyfleetingcraig-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 
-she/her
+</div>
+
+```
+const about_me = {
+  
+}
+```
 
 <!--
-**cammycraig/cammycraig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
