@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-lilyfleetingcraig-24292e?logo=github&logoColor=white)](https://github.com/lilyfleetingcraig)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-lilyfleetingcraig-0077B5?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/lilyfleetingcraig/)
 
-<img src="assets/demo.gif" float="center" width="70%"/>
+<img src="assets/demo.gif" float="center" width="90%"/>
 </div>
 
 ### 👩‍💻 About me...
