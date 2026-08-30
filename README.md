@@ -6,7 +6,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-lilyfleetingcraig-24292e?logo=github&logoColor=white)](https://github.com/lilyfleetingcraig)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-lilyfleetingcraig-0077B5?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/lilyfleetingcraig/)
 
+<img src="assets/demo.gif" float="center" width="70%"/>
 </div>
+
+### 👩‍💻 About me...
 
 ```typescript
 type Pronouns = "she" | "her";
@@ -22,10 +25,22 @@ const lily: Bio = {
 };
 ```
 
-### 👩‍💻 I’m currently working on...
+### 💻 I’m currently working on...
+
+- [web-blocks](https://github.com/lilyfleetingcraig/web-blocks) - a block-based programming editor for HTML and CSS for novices.
+- Plugins to add new code validation and error prevention to [Blockly](https://github.com/RaspberryPiFoundation/blockly).
+- My own portfolio.
 
 ### 🔭 I work with...
 
+[![Working technologies...](https://skillicons.dev/icons?i=js,ts,nodejs,vite,html,css,mysql,py,django,java,spring,cs,dotnet)](#)
+          
 ### 🌱 I’m currently learning...
 
+[![Currently learning technologies...](https://skillicons.dev/icons?i=vue,express,react,nextjs)](#)
+
 ### 🎨 When I'm not programming...
+
+- I design and build stained glass.
+- I write and play music.
+
