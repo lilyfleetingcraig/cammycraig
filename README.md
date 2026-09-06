@@ -30,6 +30,7 @@ const lily: Bio = {
 - [web-blocks](https://github.com/lilyfleetingcraig/web-blocks) - a block-based programming editor for HTML and CSS for novices.
 - Plugins to add new code validation and error prevention to [Blockly](https://github.com/RaspberryPiFoundation/blockly).
 - My own portfolio.
+- You can also read by BSc Computing Science dissertation [learning-from-scratch](https://github.com/lilyfleetingcraig/learning-from-scratch/).
 
 ### 🔭 I work with...
 
